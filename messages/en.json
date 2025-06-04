@@ -1,0 +1,22 @@
+{
+  "HomePage": {
+    "title": "GitHub User Repositories",
+    "searchPlaceholder": "Enter GitHub username",
+    "searchButton": "Search",
+    "loading": "Loading...",
+    "error": "Failed to fetch repositories",
+    "description": "Search for GitHub repositories by username"
+  },
+  "Repository": {
+    "stars": "Stars",
+    "forks": "Forks",
+    "language": "Language",
+    "openIssues": "Open Issues",
+    "viewOnGitHub": "View on GitHub"
+  },
+  "Navigation": {
+    "home": "Home",
+    "about": "About",
+    "language": "Language"
+  }
+}

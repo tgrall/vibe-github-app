@@ -1,0 +1,22 @@
+{
+  "HomePage": {
+    "title": "Dépôts Utilisateur GitHub",
+    "searchPlaceholder": "Entrez le nom d'utilisateur GitHub",
+    "searchButton": "Rechercher",
+    "loading": "Chargement...",
+    "error": "Échec de récupération des dépôts",
+    "description": "Recherchez des dépôts GitHub par nom d'utilisateur"
+  },
+  "Repository": {
+    "stars": "Étoiles",
+    "forks": "Forks",
+    "language": "Langage",
+    "openIssues": "Issues ouvertes",
+    "viewOnGitHub": "Voir sur GitHub"
+  },
+  "Navigation": {
+    "home": "Accueil",
+    "about": "À propos",
+    "language": "Langue"
+  }
+}
