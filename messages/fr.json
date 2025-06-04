@@ -17,6 +17,27 @@
   "Navigation": {
     "home": "Accueil",
     "about": "À propos",
+    "analytics": "Analytiques",
     "language": "Langue"
+  },
+  "Analytics": {
+    "title": "Analytiques des Dépôts",
+    "description": "Analysez les statistiques des dépôts avec des graphiques interactifs",
+    "searchPlaceholder": "Entrez le nom d'utilisateur GitHub",
+    "searchButton": "Rechercher",
+    "loading": "Chargement...",
+    "error": "Échec de récupération des dépôts",
+    "noData": "Aucune donnée disponible",
+    "selectMetric": "Sélectionner la métrique",
+    "metrics": {
+      "stars": "Étoiles",
+      "forks": "Forks",
+      "openIssues": "Issues Ouvertes"
+    },
+    "chartTitle": {
+      "stars": "Étoiles des Dépôts",
+      "forks": "Forks des Dépôts",
+      "openIssues": "Issues Ouvertes des Dépôts"
+    }
   }
 }

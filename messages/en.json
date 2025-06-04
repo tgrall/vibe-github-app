@@ -17,6 +17,27 @@
   "Navigation": {
     "home": "Home",
     "about": "About",
+    "analytics": "Analytics",
     "language": "Language"
+  },
+  "Analytics": {
+    "title": "Repository Analytics",
+    "description": "Analyze repository statistics with interactive charts",
+    "searchPlaceholder": "Enter GitHub username",
+    "searchButton": "Search",
+    "loading": "Loading...",
+    "error": "Failed to fetch repositories",
+    "noData": "No data available",
+    "selectMetric": "Select metric",
+    "metrics": {
+      "stars": "Stars",
+      "forks": "Forks",
+      "openIssues": "Open Issues"
+    },
+    "chartTitle": {
+      "stars": "Repository Stars",
+      "forks": "Repository Forks", 
+      "openIssues": "Repository Open Issues"
+    }
   }
 }

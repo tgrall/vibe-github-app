@@ -6,7 +6,6 @@ import { Input } from "@/components/ui/input";
 import { Button } from "@/components/ui/button";
 import { Card } from "@/components/ui/card";
 import { fetchUserRepos } from "@/lib/github";
-import { LanguageSwitcher } from "@/components/LanguageSwitcher";
 
 export default function HomePage() {
   const t = useTranslations('HomePage');
@@ -34,11 +33,6 @@ export default function HomePage() {
 
   return (
     <div className="flex flex-col items-center justify-center min-h-screen p-8 gap-8">
-      {/* Language Switcher */}
-      <div className="absolute top-4 right-4">
-        <LanguageSwitcher />
-      </div>
-
       <h1 className="text-3xl font-bold mb-4">{t('title')}</h1>
       <p className="text-gray-600 mb-4">{t('description')}</p>
       
